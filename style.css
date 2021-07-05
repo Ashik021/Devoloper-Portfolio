@@ -8,13 +8,13 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
-    padding: 5%;
+    padding: 4%;
 }
 .half-width img{
     width: 100%;
@@ -37,4 +37,7 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.padding-row{
+    padding: 4%;
 }
